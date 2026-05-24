@@ -1,4 +1,4 @@
-﻿# HealthSync Gem
+﻿# HealthSync 
 
 HealthSync Gem is a full-stack healthcare coordination platform that helps patients understand medical reports and prescriptions while giving doctors a focused dashboard for patient monitoring, appointments, notifications, and risk analytics.
 
@@ -314,24 +314,7 @@ http://localhost:5173
 - Prescription translation tries Groq first, Gemini second, and then returns a structured fallback if AI providers are unavailable.
 - This project is a healthcare assistance prototype and should not be treated as a medical device or a replacement for a licensed doctor.
 
-## GitHub Push Workflow
 
-After connecting this folder to an empty GitHub repository:
-
-```bash
-git remote add origin https://github.com/<username>/<repo-name>.git
-git branch -M main
-git add .
-git commit -m "Initial HealthSync Gem project"
-git push -u origin main
-```
-
-If the remote already exists:
-
-```bash
-git remote set-url origin https://github.com/<username>/<repo-name>.git
-git push -u origin main
-```
 
 ## Future Enhancements
 
