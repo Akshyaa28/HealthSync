@@ -1,6 +1,6 @@
 ﻿# HealthSync 
 
-HealthSync Gem is a full-stack healthcare coordination platform that helps patients understand medical reports and prescriptions while giving doctors a focused dashboard for patient monitoring, appointments, notifications, and risk analytics.
+HealthSync  is a full-stack healthcare coordination platform that helps patients understand medical reports and prescriptions while giving doctors a focused dashboard for patient monitoring, appointments, notifications, and risk analytics.
 
 The project combines a React frontend with an Express/MongoDB backend and AI-powered support for report explanation, prescription translation, and doctor assistance. It is designed as a practical healthcare workflow prototype: patients can upload reports, review risk summaries, ask health questions, translate prescriptions into simple language, and book appointments; doctors can monitor patients, review uploaded reports, manage appointments, and track high-risk trends.
 
